@@ -1,21 +1,17 @@
 {
-    "id": "dnd5e-compendia",
-    "title": "DnD5e Compendia - Complete DnD 5e Compendium ",
-    "description": "A compendium containing all DnD5e Content",
+    "id": "dnd5e-complete-compendia",
+    "title": "DnD5e Complete Compendia",
+    "description": "Compendium containing all DnD5e Content",
     "authors": [
         {
             "name": "b-rand"
         }
     ],
-    "version": "1.0.1",
+    "version": "1.0.2",
     "compatibility": {
         "minimum": "10",
         "verified": "11"
     },
-    "scripts": [],
-    "url": "https://github.com/b-rand/DnD5eCompendia",
-    "manifest": "https://github.com/b-rand/DnD5eCompendia/releases/latest/download/module.json",
-    "download": "https://github.com/b-rand/DnD5eCompendia/releases/download/1.0.0/module.zip",
     "relationships": {
         "systems": [
             {
@@ -157,8 +153,7 @@
                         "subclasses",
                         "classfeatures",
                         "backgrounds",
-                        "races",
-                        "heroes"
+                        "races"
                     ]
                 },
                 {
@@ -186,5 +181,5 @@
     "scripts": [],
     "url": "https://github.com/b-rand/DnD5eCompendia",
     "manifest": "https://github.com/b-rand/DnD5eCompendia/releases/latest/download/module.json",
-    "download": "https://github.com/b-rand/DnD5eCompendia/releases/download/1.0.1/module.zip"
+    "download": "https://github.com/b-rand/DnD5eCompendia/releases/download/1.0.2/module.zip"
 }
