@@ -136,7 +136,7 @@
     ],
     "packFolders": [
         {
-            "name": "DnD5e Compendia",
+            "name": "DnD5e Complete Compendia",
             "sorting": "m",
             "color": "#cd2c1e",
             "packs": [
@@ -178,7 +178,7 @@
             ]
         }
     ],
-    "scripts": ["./scripts/compendium.js"],
+    "scripts": [],
     "url": "https://github.com/b-rand/DnD5eCompendia",
     "manifest": "https://github.com/b-rand/DnD5eCompendia/releases/latest/download/module.json",
     "download": "https://github.com/b-rand/DnD5eCompendia/releases/download/1.0.2/module.zip"
