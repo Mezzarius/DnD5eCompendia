@@ -7,7 +7,11 @@
             "name": "b-rand"
         }
     ],
-    "version": "1.0.4",
+    "version": "1.0.5",
+    "scripts": [],
+    "url": "https://github.com/b-rand/DnD5eCompendia",
+    "manifest": "https://github.com/b-rand/DnD5eCompendia/releases/latest/download/module.json",
+    "download": "https://github.com/b-rand/DnD5eCompendia/releases/download/1.0.5/module.zip",
     "compatibility": {
         "minimum": "10",
         "verified": "11"
@@ -26,160 +30,131 @@
     },
     "packs": [
         {
-            "name": "monsters",
-            "label": "Monsters",
-            "system": "dnd5e",
-            "path": "./packs/monsters",
-            "type": "Actor",
-            "private": false,
-            "flags": {}
-        },
-        {
-            "name": "items",
-            "label": "Items",
-            "system": "dnd5e",
-            "path": "./packs/items",
-            "type": "Item",
-            "private": false,
-            "flags": {}
-        },
-        {
-            "name": "tradegoods",
-            "label": "Trade Goods",
-            "system": "dnd5e",
-            "path": "./packs/tradegoods",
-            "type": "Item",
-            "private": false,
-            "flags": {}
-        },
-        {
-            "name": "spells",
-            "label": "Spells",
-            "system": "dnd5e",
-            "path": "./packs/spells",
-            "type": "Item",
-            "private": false,
-            "flags": {}
-        },
-        {
             "name": "backgrounds",
             "label": "Backgrounds",
             "system": "dnd5e",
             "path": "./packs/backgrounds",
-            "type": "Item",
-            "private": false,
-            "flags": {}
+            "type": "Item"
         },
         {
             "name": "classes",
             "label": "Classes",
             "system": "dnd5e",
             "path": "./packs/classes",
-            "type": "Item",
-            "private": false,
-            "flags": {}
+            "type": "Item"
         },
         {
             "name": "subclasses",
             "label": "Subclasses",
             "system": "dnd5e",
             "path": "./packs/subclasses",
-            "type": "Item",
-            "private": false,
-            "flags": {}
+            "type": "Item"
         },
         {
-            "name": "classfeatures",
+            "name": "classFeatures",
             "label": "Class Features",
             "system": "dnd5e",
-            "path": "./packs/classfeatures",
-            "type": "Item",
-            "private": false,
-            "flags": {}
+            "path": "./packs/classFeatures",
+            "type": "Item"
         },
         {
-            "name": "races",
+            "name": "racialFeatures",
             "label": "Racial Features",
             "system": "dnd5e",
-            "path": "./packs/races",
-            "type": "Item",
-            "private": false,
-            "flags": {}
+            "path": "./packs/racialFeatures",
+            "type": "Item"
         },
         {
-            "name": "monsterfeatures",
+            "name": "items",
+            "label": "Items",
+            "system": "dnd5e",
+            "path": "./packs/items",
+            "type": "Item"
+        },
+        {
+            "name": "tradeGoods",
+            "label": "Trade Goods",
+            "system": "dnd5e",
+            "path": "./packs/tradeGoods",
+            "type": "Item"
+        },
+        {
+            "name": "spells",
+            "label": "Spells",
+            "system": "dnd5e",
+            "path": "./packs/spells",
+            "type": "Item"
+        },
+        {
+            "name": "monsters",
+            "label": "Monsters",
+            "system": "dnd5e",
+            "path": "./packs/monsters",
+            "type": "Actor"
+        },
+        {
+            "name": "monsterFeatures",
             "label": "Monster Features",
             "system": "dnd5e",
-            "path": "./packs/monsterfeatures",
-            "type": "Item",
-            "private": false,
-            "flags": {}
+            "path": "./packs/monsterFeatures",
+            "type": "Item"
         },
         {
             "name": "rules",
             "label": "Rules",
             "system": "dnd5e",
             "path": "./packs/rules",
-            "type": "JournalEntry",
-            "private": false,
-            "flags": {}
+            "type": "JournalEntry"
         },
         {
             "name": "tables",
             "label": "Tables",
             "system": "dnd5e",
             "path": "./packs/tables",
-            "type": "RollTable",
-            "private": false,
-            "flags": {}
+            "type": "RollTable"
         }
     ],
     "packFolders": [
         {
             "name": "DnD5e Complete Compendia",
             "sorting": "m",
-            "color": "#cd2c1e",
             "packs": [
-                "./packs/rules",
-                "./packs/tables"
+                "rules",
+                "tables"
             ],
             "folders": [
                 {
                     "name": "Character Features",
-                    "sorting": "m",
-                    "color": "#b72c1f",
+                    "sorting": "a",
+                    "color": "#ff0000",
                     "packs": [
-                        "./packs/classes",
-                        "./packs/subclasses",
-                        "./packs/classfeatures",
-                        "./packs/backgrounds",
-                        "./packs/races"
+                        "backgrounds",
+                        "classes",
+                        "subclasses",
+                        "classFeatures",
+                        "racialFeatures"
                     ]
                 },
                 {
                     "name": "Items & Spells",
-                    "sorting": "m",
-                    "color": "#941919 ",
+                    "sorting": "a",
+                    "color": "#ff00ff",
                     "packs": [
-                        "./packs/items",
-                        "./packs/spells",
-                        "./packs/tradegoods"
+                        "items",
+                        "tradeGoods",
+                        "spells"
                     ]
                 },
                 {
                     "name": "Monsters",
-                    "sorting": "m",
-                    "color": "#7d160c",
+                    "sorting": "a",
+                    "color": "#ff00ff",
                     "packs": [
-                        "./packs/monsters",
-                        "./packs/monsterfeatures"
+                        "monsters",
+                        "monsterFeatures"
                     ]
                 }
             ]
         }
-    ],
-    "scripts": [],
-    "url": "https://github.com/b-rand/DnD5eCompendia",
-    "manifest": "https://github.com/b-rand/DnD5eCompendia/releases/latest/download/module.json",
-    "download": "https://github.com/b-rand/DnD5eCompendia/releases/download/1.0.4/module.zip"
+    ]
 }
