@@ -1,5 +1,5 @@
 Hooks.once("ready", function () {
-    game.packs.register("DnD5e-Compendia.backgrounds", {
+    game.packs.register("dnd5e-complete-compendia.backgrounds", {
         label: "Backgrounds",
         entity: "Item",
         documents: [],
