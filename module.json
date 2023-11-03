@@ -1,5 +1,5 @@
 {
-    "id": "DnD5e-Compendia",
+    "id": "dnd5e-compendia",
     "title": "DnD5e Compendia - Complete DnD 5e Compendium ",
     "description": "A compendium containing all DnD5e Content",
     "authors": [
@@ -155,5 +155,5 @@
     ],
     "scripts": [
         "scripts/compendium.js"
-    ] 
+    ]
 }
