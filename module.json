@@ -1,6 +1,6 @@
 {
-    "id": "dnd5e-compendia",
-    "title": "DnD5e Compendia - Complete DnD 5e Compendium ",
+    "id": "dnd5e-complete-compendia",
+    "title": "DnD5e Complete Compendia",
     "description": "A compendium containing all DnD5e Content",
     "authors": [
         {
@@ -12,6 +12,10 @@
         "minimum": "10",
         "verified": "11"
     },
+    "scripts": [],
+    "url": "https://github.com/b-rand/DnD5eCompendia",
+    "manifest": "https://github.com/b-rand/DnD5eCompendia/releases/latest/download/module.json",
+    "download": "https://github.com/b-rand/DnD5eCompendia/releases/download/1.0.0/module.zip",
     "relationships": {
         "systems": [
             {
@@ -113,6 +117,7 @@
     "packFolders": [
         {
             "name": "DnD5e Compendia",
+            "color": "#870375",
             "sorting": "m",
             "packs": [
                 "rules",
@@ -134,7 +139,7 @@
                 {
                     "name": "Items & Spells",
                     "sorting": "a",
-                    "color": "#ff00ff",
+                    "color": "#ff0000",
                     "packs": [
                         "items",
                         "tradeGoods",
@@ -144,7 +149,7 @@
                 {
                     "name": "Monsters",
                     "sorting": "a",
-                    "color": "#ff00ff",
+                    "color": "#ff0000",
                     "packs": [
                         "monsters",
                         "monsterFeatures"
@@ -152,9 +157,5 @@
                 }
             ]
         }
-    ],
-    "scripts": [],
-    "url": "https://github.com/b-rand/DnD5eCompendia",
-    "manifest": "https://github.com/b-rand/DnD5eCompendia/releases/latest/download/module.json",
-    "download": "https://github.com/b-rand/DnD5eCompendia/releases/download/1.0.0/module.zip"
+    ]
 }
