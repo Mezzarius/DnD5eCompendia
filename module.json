@@ -1,7 +1,7 @@
 {
     "id": "dnd5e-complete-compendia",
     "title": "DnD5e Complete Compendia",
-    "description": "A compendium containing all DnD5e Content",
+    "description": "Compendium containing all DnD5e Content",
     "authors": [
         {
             "name": "b-rand"
@@ -116,7 +116,7 @@
     ],
     "packFolders": [
         {
-            "name": "DnD5e Compendia",
+            "name": "DnD5e Complete Compendia",
             "sorting": "m",
             "packs": [
                 "rules",
