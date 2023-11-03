@@ -33,84 +33,72 @@
             "name": "backgrounds",
             "label": "Backgrounds",
             "system": "dnd5e",
-            "path": "./packs/backgrounds",
             "type": "Item"
         },
         {
             "name": "classes",
             "label": "Classes",
             "system": "dnd5e",
-            "path": "./packs/classes",
             "type": "Item"
         },
         {
             "name": "subclasses",
             "label": "Subclasses",
             "system": "dnd5e",
-            "path": "./packs/subclasses",
             "type": "Item"
         },
         {
             "name": "classFeatures",
             "label": "Class Features",
             "system": "dnd5e",
-            "path": "./packs/classFeatures",
             "type": "Item"
         },
         {
             "name": "racialFeatures",
             "label": "Racial Features",
             "system": "dnd5e",
-            "path": "./packs/racialFeatures",
             "type": "Item"
         },
         {
             "name": "items",
             "label": "Items",
             "system": "dnd5e",
-            "path": "./packs/items",
             "type": "Item"
         },
         {
             "name": "tradeGoods",
             "label": "Trade Goods",
             "system": "dnd5e",
-            "path": "./packs/tradeGoods",
             "type": "Item"
         },
         {
             "name": "spells",
             "label": "Spells",
             "system": "dnd5e",
-            "path": "./packs/spells",
             "type": "Item"
         },
         {
             "name": "monsters",
             "label": "Monsters",
             "system": "dnd5e",
-            "path": "./packs/monsters",
             "type": "Actor"
         },
         {
             "name": "monsterFeatures",
             "label": "Monster Features",
             "system": "dnd5e",
-            "path": "./packs/monsterFeatures",
             "type": "Item"
         },
         {
             "name": "rules",
             "label": "Rules",
             "system": "dnd5e",
-            "path": "./packs/rules",
             "type": "JournalEntry"
         },
         {
             "name": "tables",
             "label": "Tables",
             "system": "dnd5e",
-            "path": "./packs/tables",
             "type": "RollTable"
         }
     ],
