@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Potion of Healing",
+        "type": "consumable",
+        "data": {
+            "description": {
+                "value": "A magical potion that heals wounds."
+            },
+            "quantity": 3,
+            "healing": {
+                "formula": "2d4+2"
+            }
+        }
+    }
+]
