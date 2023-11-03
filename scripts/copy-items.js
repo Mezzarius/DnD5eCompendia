@@ -1,6 +1,8 @@
 const fs = require('fs');
 const path = require('path');
 
+console.log("Running the copy-items script...");
+
 async function addItemsToCompendium(itemDataArray) {
     const compendiumName = "dnd5e-complete-compendia.items";
     const compendium = game.packs.get(compendiumName);
