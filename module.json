@@ -7,7 +7,7 @@
             "name": "b-rand"
         }
     ],
-    "version": "1.0.3",
+    "version": "1.0.4",
     "compatibility": {
         "minimum": "10",
         "verified": "11"
@@ -140,8 +140,8 @@
             "sorting": "m",
             "color": "#cd2c1e",
             "packs": [
-                "rules",
-                "tables"
+                "./packs/rules",
+                "./packs/tables"
             ],
             "folders": [
                 {
@@ -149,11 +149,11 @@
                     "sorting": "m",
                     "color": "#b72c1f",
                     "packs": [
-                        "classes",
-                        "subclasses",
-                        "classfeatures",
-                        "backgrounds",
-                        "races"
+                        "./packs/classes",
+                        "./packs/subclasses",
+                        "./packs/classfeatures",
+                        "./packs/backgrounds",
+                        "./packs/races"
                     ]
                 },
                 {
@@ -161,9 +161,9 @@
                     "sorting": "m",
                     "color": "#941919 ",
                     "packs": [
-                        "items",
-                        "spells",
-                        "tradegoods"
+                        "./packs/items",
+                        "./packs/spells",
+                        "./packs/tradegoods"
                     ]
                 },
                 {
@@ -171,8 +171,8 @@
                     "sorting": "m",
                     "color": "#7d160c",
                     "packs": [
-                        "monsters",
-                        "monsterfeatures"
+                        "./packs/monsters",
+                        "./packs/monsterfeatures"
                     ]
                 }
             ]
@@ -181,5 +181,5 @@
     "scripts": [],
     "url": "https://github.com/b-rand/DnD5eCompendia",
     "manifest": "https://github.com/b-rand/DnD5eCompendia/releases/latest/download/module.json",
-    "download": "https://github.com/b-rand/DnD5eCompendia/releases/download/1.0.3/module.zip"
+    "download": "https://github.com/b-rand/DnD5eCompendia/releases/download/1.0.4/module.zip"
 }
