@@ -1,0 +1,159 @@
+{
+    "id": "DnD5e-Compendia",
+    "title": "DnD5e Compendia - Complete DnD 5e Compendium ",
+    "description": "A compendium containing all DnD5e Content",
+    "authors": [
+        {
+            "name": "b-rand"
+        }
+    ],
+    "version": "1.0.0",
+    "compatibility": {
+        "minimum": "10",
+        "verified": "11"
+    },
+    "relationships": {
+        "systems": [
+            {
+                "id": "dnd5e",
+                "type": "system",
+                "compatibility": {
+                    "minimum": "2.1.0",
+                    "verified": "2.3.1"
+                }
+            }
+        ]
+    },
+    "packs": [
+        {
+            "name": "backgrounds",
+            "label": "Backgrounds",
+            "system": "dnd5e",
+            "path": "./packs/backgrounds",
+            "type": "Item"
+        },
+        {
+            "name": "classes",
+            "label": "Classes",
+            "system": "dnd5e",
+            "path": "./packs/classes",
+            "type": "Item"
+        },
+        {
+            "name": "subclasses",
+            "label": "Subclasses",
+            "system": "dnd5e",
+            "path": "./packs/subclasses",
+            "type": "Item"
+        },
+        {
+            "name": "classFeatures",
+            "label": "Class Features",
+            "system": "dnd5e",
+            "path": "./packs/classFeatures",
+            "type": "Item"
+        },
+        {
+            "name": "racialFeatures",
+            "label": "Racial Features",
+            "system": "dnd5e",
+            "path": "./packs/racialFeatures",
+            "type": "Item"
+        },
+        {
+            "name": "items",
+            "label": "Items",
+            "system": "dnd5e",
+            "path": "./packs/items",
+            "type": "Item"
+        },
+        {
+            "name": "tradeGoods",
+            "label": "Trade Goods",
+            "system": "dnd5e",
+            "path": "./packs/tradeGoods",
+            "type": "Item"
+        },
+        {
+            "name": "spells",
+            "label": "Spells",
+            "system": "dnd5e",
+            "path": "./packs/spells",
+            "type": "Item"
+        },
+        {
+            "name": "monsters",
+            "label": "Monsters",
+            "system": "dnd5e",
+            "path": "./packs/monsters",
+            "type": "Actor"
+        },
+        {
+            "name": "monsterFeatures",
+            "label": "Monster Features",
+            "system": "dnd5e",
+            "path": "./packs/monsterFeatures",
+            "type": "Item"
+        },
+        {
+            "name": "rules",
+            "label": "Rules",
+            "system": "dnd5e",
+            "path": "./packs/rules",
+            "type": "JournalEntry"
+        },
+        {
+            "name": "tables",
+            "label": "Tables",
+            "system": "dnd5e",
+            "path": "./packs/tables",
+            "type": "RollTable"
+        }
+    ],
+    "packFolders": [
+        {
+            "name": "DnD5e Compendia",
+            "sorting": "m",
+            "packs": [
+                "rules",
+                "tables"
+            ],
+            "folders": [
+                {
+                    "name": "Character Features",
+                    "sorting": "a",
+                    "color": "#ff0000",
+                    "packs": [
+                        "backgrounds",
+                        "classes",
+                        "subclasses",
+                        "classFeatures",
+                        "racialFeatures"
+                    ]
+                },
+                {
+                    "name": "Items & Spells",
+                    "sorting": "a",
+                    "color": "#ff00ff",
+                    "packs": [
+                        "items",
+                        "tradeGoods",
+                        "spells"
+                    ]
+                },
+                {
+                    "name": "Monsters",
+                    "sorting": "a",
+                    "color": "#ff00ff",
+                    "packs": [
+                        "monsters",
+                        "monsterFeatures"
+                    ]
+                }
+            ]
+        }
+    ],
+    "scripts": [
+        "scripts/compendium.js"
+    ] 
+}
