@@ -24,8 +24,8 @@
 // export const extractPacks = gulp.series(packs.extract);
 
 // // Build all artifacts
-buildAll = gulp.parallel(
+// buildAll = gulp.parallel(
 //   css.compile,
 //   javascript.compile,
 //   packs.compile
-);
+//);
