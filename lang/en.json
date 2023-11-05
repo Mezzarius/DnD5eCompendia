@@ -1,0 +1,10 @@
+{
+    "HCT": {
+        "Setting": {
+            "TestSetting": {
+                "Name": "Test",
+                "Hint": "Testing creating settings."
+            }
+        }
+    }
+}

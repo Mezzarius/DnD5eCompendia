@@ -2,16 +2,7 @@
     "id": "dnd5e-complete-compendia",
     "title": "DnD5e Complete Compendia",
     "description": "Compendium containing all DnD5e Content",
-    "authors": [
-        {
-            "name": "b-rand"
-        }
-    ],
-    "version": "1.0.6",
-    "scripts": [],
-    "url": "https://github.com/b-rand/DnD5eCompendia",
-    "manifest": "https://github.com/b-rand/DnD5eCompendia/releases/latest/download/module.json",
-    "download": "https://github.com/b-rand/DnD5eCompendia/releases/download/1.0.6/module.zip",
+    "version": "1.0.7",
     "compatibility": {
         "minimum": "10",
         "verified": "11"
@@ -28,6 +19,25 @@
             }
         ]
     },
+    "esmodules": [
+        "dnd5e-complete-compendia.js"
+    ],
+    "scripts": [],
+    "languages": [
+        {
+            "lang": "en",
+            "name": "English",
+            "path": "lang/en.json"
+        }
+    ],
+    "url": "https://github.com/b-rand/DnD5eCompendia",
+    "manifest": "https://raw.githubusercontent.com/b-rand/DnD5eCompendia/master/module.json",
+    "download": "https://github.com/b-rand/DnD5eCompendia/releases/download/1.0.7/dnd5e-complete-compendia-release-1.0.7.zip",
+    "authors": [
+        {
+            "name": "b-rand"
+        }
+    ],
     "packs": [
         {
             "name": "backgrounds",
