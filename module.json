@@ -32,7 +32,7 @@
     ],
     "url": "https://github.com/b-rand/DnD5eCompendia",
     "manifest": "https://raw.githubusercontent.com/b-rand/DnD5eCompendia/master/module.json",
-    "download": "https://github.com/b-rand/DnD5eCompendia/releases/download/1.0.7/dnd5e-complete-compendia-release-1.0.7.zip",
+    "download": "https://github.com/b-rand/DnD5eCompendia/releases/download/release-1.0.7/dnd5e-complete-compendia-release-1.0.7.zip",
     "authors": [
         {
             "name": "b-rand"
