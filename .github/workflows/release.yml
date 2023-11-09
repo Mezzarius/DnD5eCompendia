@@ -83,7 +83,7 @@ jobs:
     #     npm run build --if-present
 
     # Create a zip file with all files required by the module to add to the release
-    - run: zip ${{steps.get_vars.outputs.ZIP_NAME}} -r lang dnd5e-complete-compendia.js module.json
+    - run: zip ${{steps.get_vars.outputs.ZIP_NAME}} -r lang dnd5e-complete-compendia.js module.json packs/*.db
     # packs/*.db 
 
 
