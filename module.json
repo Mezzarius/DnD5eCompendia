@@ -2,7 +2,7 @@
     "id": "dnd5e-complete-compendia",
     "title": "DnD5e Complete Compendia",
     "description": "Compendium containing all DnD5e Content",
-    "version": "1.0.10",
+    "version": "1.0.7",
     "compatibility": {
         "minimum": "10",
         "verified": "11"
@@ -32,7 +32,7 @@
     ],
     "url": "https://github.com/b-rand/DnD5eCompendia",
     "manifest": "https://raw.githubusercontent.com/b-rand/DnD5eCompendia/master/module.json",
-    "download": "https://github.com/b-rand/DnD5eCompendia/releases/download/1.0.10/dnd5e-complete-compendia-1.0.10.zip",
+    "download": "https://github.com/b-rand/DnD5eCompendia/releases/download/1.0.7/dnd5e-complete-compendia-1.0.7.zip",
     "authors": [
         {
             "name": "b-rand"
