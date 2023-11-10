@@ -25,12 +25,12 @@ jobs:
       id: get_vars
       run: |
         TAG=${GITHUB_REF/refs\/tags\//}
-        echo ::set-output name=TAG_NAME::$TAG
-        echo ::set-output name=ZIP_NAME::dnd5e-complete-compendia-$TAG.zip
-        echo ::set-output name=RELEASE_DOWNLOAD_URL::https://github.com/${{github.repository}}/releases/download/$TAG/dnd5e-complete-compendia-$TAG.zip
-        echo ::set-output name=RELEASE_INSTALL_URL::https://github.com/${{github.repository}}/releases/download/$TAG/module.json
+        echo "{TAG_NAME}=={$TAG} >> $GITHUB_OUTPUT
+        echo "{ZIP_NAME}=={dnd5e-complete-compendia-$TAG.zip} >> $GITHUB_OUTPUT
+        echo "{RELEASE_DOWNLOAD_URL}=={https://github.com/${{github.repository}}/releases/download/$TAG/dnd5e-complete-compendia-$TAG.zip} >> $GITHUB_OUTPUT
+        echo "{RELEASE_INSTALL_URL}=={https://github.com/${{github.repository}}/releases/download/$TAG/module.json} >> $GITHUB_OUTPUT
         JSON=$(cat ./module.json)
-        echo ::set-output name=MODULE_JSON::${JSON//'%'/'%25'}
+        echo "{MODULE_JSON}=={${JSON//'%'/'%25'}} >> $GITHUB_OUTPUT
 
 
     # Run some tests to make sure our `module.json` is correct
