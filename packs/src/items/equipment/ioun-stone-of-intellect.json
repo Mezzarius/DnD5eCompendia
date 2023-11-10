@@ -100,7 +100,7 @@
     {
       "label": "Ioun Stone of Intellect",
       "icon": "icons/commodities/stone/ore-pile-red.webp",
-      "origin": "Compendium.dnd5e.items.YeLz5OxRNxmvHJId",
+      "origin": "Compendium.dnd5e-complete-compendia.items.YeLz5OxRNxmvHJId",
       "duration": {
         "startTime": null,
         "seconds": null,

@@ -527,7 +527,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.monsterfeatures.WbaKH3NLA3mvylfM"
+          "sourceId": "Compendium.dnd5e-complete-compendia-complete-compendia.monsterFeatures.WbaKH3NLA3mvylfM"
         }
       },
       "_stats": {
@@ -619,7 +619,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.monsterfeatures.hkmTEk6klT6QL4K4"
+          "sourceId": "Compendium.dnd5e-complete-compendia-complete-compendia.monsterFeatures.hkmTEk6klT6QL4K4"
         }
       },
       "_stats": {
@@ -725,7 +725,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.1LkZvINag7KqBmDR"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.1LkZvINag7KqBmDR"
         }
       },
       "_stats": {
@@ -817,7 +817,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.monsterfeatures.EqoLg8T8EHvhJgKE"
+          "sourceId": "Compendium.dnd5e-complete-compendia-complete-compendia.monsterFeatures.EqoLg8T8EHvhJgKE"
         }
       },
       "_stats": {
@@ -947,7 +947,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.items.fbC0Mg1a73wdFbqO"
+          "sourceId": "Compendium.dnd5e-complete-compendia.items.fbC0Mg1a73wdFbqO"
         }
       },
       "_stats": {
@@ -1172,7 +1172,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.ghXTfe7sgCbgf1Q8"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.ghXTfe7sgCbgf1Q8"
         }
       },
       "img": "icons/magic/light/explosion-star-blue.webp",
@@ -1278,7 +1278,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.WahI41a3goVUg0x1"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.WahI41a3goVUg0x1"
         }
       },
       "img": "icons/magic/control/energy-stream-link-large-blue.webp",
@@ -1384,7 +1384,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.gopnZvS0c2jD5FP8"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.gopnZvS0c2jD5FP8"
         }
       },
       "img": "icons/commodities/currency/coin-engraved-sun-smile-copper.webp",
@@ -1490,7 +1490,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.2IWiZAJtOGDoKjiz"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.2IWiZAJtOGDoKjiz"
         }
       },
       "img": "icons/magic/air/fog-gas-smoke-dense-green.webp",
@@ -1596,7 +1596,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.1N8dDMMgZ1h1YJ3B"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.1N8dDMMgZ1h1YJ3B"
         }
       },
       "img": "icons/magic/air/fog-gas-smoke-dense-gray.webp",
@@ -1702,7 +1702,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.nslx2nT3p4lNkmdp"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.nslx2nT3p4lNkmdp"
         }
       },
       "img": "icons/magic/control/debuff-energy-hold-levitate-pink.webp",
@@ -1808,7 +1808,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.J6Jpw5XzB5aTeqnz"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.J6Jpw5XzB5aTeqnz"
         }
       },
       "img": "icons/magic/symbols/runes-star-pentagon-orange-purple.webp",
@@ -1919,7 +1919,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.X3DrXgxjwI2dvkD6"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.X3DrXgxjwI2dvkD6"
         }
       },
       "img": "icons/magic/air/fog-gas-smoke-swirling-orange.webp",

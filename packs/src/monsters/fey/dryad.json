@@ -526,7 +526,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.monsterfeatures.hkmTEk6klT6QL4K4"
+          "sourceId": "Compendium.dnd5e-complete-compendia-complete-compendia.monsterFeatures.hkmTEk6klT6QL4K4"
         }
       },
       "_stats": {
@@ -618,7 +618,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.monsterfeatures.Hc6MqLQhPTI1KOvm"
+          "sourceId": "Compendium.dnd5e-complete-compendia-complete-compendia.monsterFeatures.Hc6MqLQhPTI1KOvm"
         }
       },
       "_stats": {
@@ -710,7 +710,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.monsterfeatures.59DUUDZet1J4PIlA"
+          "sourceId": "Compendium.dnd5e-complete-compendia-complete-compendia.monsterFeatures.59DUUDZet1J4PIlA"
         }
       },
       "_stats": {
@@ -802,7 +802,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.monsterfeatures.g4V02wJbEstUpwi9"
+          "sourceId": "Compendium.dnd5e-complete-compendia-complete-compendia.monsterFeatures.g4V02wJbEstUpwi9"
         }
       },
       "_stats": {
@@ -928,7 +928,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.items.nfIRTECQIG81CvM4"
+          "sourceId": "Compendium.dnd5e-complete-compendia.items.nfIRTECQIG81CvM4"
         }
       },
       "_stats": {
@@ -1020,7 +1020,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.monsterfeatures.SGgVxdZbmsStfeGB"
+          "sourceId": "Compendium.dnd5e-complete-compendia-complete-compendia.monsterFeatures.SGgVxdZbmsStfeGB"
         }
       },
       "_stats": {
@@ -1120,7 +1120,7 @@
       "effects": [],
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.gMrWeG8fMDPRFiVe"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.gMrWeG8fMDPRFiVe"
         }
       },
       "_id": "gMrWeG8fMDPRFiVe",
@@ -1229,7 +1229,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.SbSvZKkJASyk8jKo"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.SbSvZKkJASyk8jKo"
         }
       },
       "img": "icons/magic/nature/vines-thorned-glow-teal.webp",
@@ -1340,7 +1340,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.Qf6CAZkc7ms4ZY3e"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.Qf6CAZkc7ms4ZY3e"
         }
       },
       "img": "icons/magic/nature/leaf-glow-green.webp",
@@ -1484,7 +1484,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.JPwIEfgUPVebr5AH"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.JPwIEfgUPVebr5AH"
         }
       },
       "_stats": {
@@ -1587,7 +1587,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.pRMvmknwLf2tdMTj"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.pRMvmknwLf2tdMTj"
         }
       },
       "img": "icons/magic/air/fog-gas-smoke-brown.webp",
@@ -1698,7 +1698,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.VzgFzcmocr1X1cp4"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.VzgFzcmocr1X1cp4"
         }
       },
       "img": "icons/magic/fire/dagger-rune-enchant-teal.webp",
@@ -1744,7 +1744,7 @@
       },
       "icon": "icons/magic/defensive/shield-barrier-flaming-diamond-orange.webp",
       "label": "Barkskin",
-      "origin": "Compendium.dnd5e.monsters.KOHVWl5RU9XBR8Jb.Item.JPwIEfgUPVebr5AH",
+      "origin": "Compendium.dnd5e-complete-compendia.monsters.KOHVWl5RU9XBR8Jb.Item.JPwIEfgUPVebr5AH",
       "tint": null,
       "transfer": false,
       "sort": 0

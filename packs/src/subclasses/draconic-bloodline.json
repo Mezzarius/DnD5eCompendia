@@ -17,8 +17,8 @@
         "type": "ItemGrant",
         "configuration": {
           "items": [
-            "Compendium.dnd5e.classfeatures.EZsonMThTNLZq35j",
-            "Compendium.dnd5e.classfeatures.MW1ExvBLm8Hg82aA"
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.EZsonMThTNLZq35j",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.MW1ExvBLm8Hg82aA"
           ],
           "optional": false,
           "spell": {
@@ -39,7 +39,7 @@
         "type": "ItemGrant",
         "configuration": {
           "items": [
-            "Compendium.dnd5e.classfeatures.x6eEZ9GUsuOcEa3G"
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.x6eEZ9GUsuOcEa3G"
           ],
           "optional": false,
           "spell": {
@@ -60,7 +60,7 @@
         "type": "ItemGrant",
         "configuration": {
           "items": [
-            "Compendium.dnd5e.classfeatures.3647zjKSE9zFwOXc"
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.3647zjKSE9zFwOXc"
           ],
           "optional": false,
           "spell": {
@@ -81,7 +81,7 @@
         "type": "ItemGrant",
         "configuration": {
           "items": [
-            "Compendium.dnd5e.classfeatures.Gsha4bl0apxqspFy"
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.Gsha4bl0apxqspFy"
           ],
           "optional": false,
           "spell": {

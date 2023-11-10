@@ -527,7 +527,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.monsterfeatures.4Fap14HgvAwTAZuD"
+          "sourceId": "Compendium.dnd5e-complete-compendia-complete-compendia.monsterFeatures.4Fap14HgvAwTAZuD"
         }
       },
       "_stats": {
@@ -619,7 +619,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.monsterfeatures.hkmTEk6klT6QL4K4"
+          "sourceId": "Compendium.dnd5e-complete-compendia-complete-compendia.monsterFeatures.hkmTEk6klT6QL4K4"
         }
       },
       "_stats": {
@@ -711,7 +711,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.monsterfeatures.zZkNtL97hn1P6OJC"
+          "sourceId": "Compendium.dnd5e-complete-compendia-complete-compendia.monsterFeatures.zZkNtL97hn1P6OJC"
         }
       },
       "_stats": {
@@ -925,7 +925,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.monsterfeatures.s7kqggp9VLDb39nu"
+          "sourceId": "Compendium.dnd5e-complete-compendia-complete-compendia.monsterFeatures.s7kqggp9VLDb39nu"
         }
       },
       "_stats": {
@@ -1017,7 +1017,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.monsterfeatures.FRIASnssihfMTZ7q"
+          "sourceId": "Compendium.dnd5e-complete-compendia-complete-compendia.monsterFeatures.FRIASnssihfMTZ7q"
         }
       },
       "_stats": {
@@ -1120,7 +1120,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.CAxSzHWizrafT033"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.CAxSzHWizrafT033"
         }
       },
       "img": "icons/magic/fire/projectile-meteor-salvo-strong-blue.webp",
@@ -1226,7 +1226,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.oIzA2MEHwxhtQneU"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.oIzA2MEHwxhtQneU"
         }
       },
       "img": "icons/magic/control/hypnosis-mesmerism-eye.webp",
@@ -1337,7 +1337,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.cdrYKaFi98YWaBMw"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.cdrYKaFi98YWaBMw"
         }
       },
       "img": "icons/skills/toxins/cup-goblet-poisoned-spilled.webp",

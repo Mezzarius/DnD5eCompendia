@@ -5,7 +5,7 @@
   "img": "icons/creatures/mammals/bat-giant-tattered-purple.webp",
   "system": {
     "description": {
-      "value": "<p>As a warlock, you gain the following class features.</p><h3>Hit Points</h3><p><strong>Hit Dice:</strong> 1d8 per warlock level<br /><strong>Hit Points at 1st Level:</strong> 8 + your Constitution modifier<br /><strong>Hit Points at Higher Levels:</strong> 1d8 (or 5) + your Constitution modifier per warlock level after 1st</p><h3>Proficiencies</h3><p><strong>Armor:</strong> Light armor<br /><strong>Weapons:</strong> Simple weapons<br /><strong>Tools:</strong> None<br /><strong>Saving Throws:</strong> Wisdom, Charisma<br /><strong>Skills:</strong> Choose two skills from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion</p><h3>Equipment</h3><p>You start with the following equipment, in addition to the equipment granted by your background:</p><ul><li>(a) a light crossbow and 20 bolts or (b) any simple weapon</li><li>(a) a component pouch or (b) an arcane focus</li><li>(a) a scholar's pack or (b) a dungeoneer's pack</li><li>Leather armor, any simple weapon, and two daggers</li></ul><h1>Warlock Advancement</h1><table border=\"0\"><thead><tr><td>Level</td><td>Proficiency Bonus</td><td>Features</td><td>Invocations Known</td></tr></thead><tbody><tr><td>1st</td><td>+2</td><td>@Compendium[dnd5e.classfeatures.jTXHaK0vvT5DV3uO]{Otherworldly Patron}, @Compendium[dnd5e.classfeatures.x6IJZwr6f0SGral7]{Pact Magic}</td><td>̶</td></tr><tr><td>2nd</td><td>+2</td><td>@Compendium[dnd5e.classfeatures.8MlxM2nEfE3Q0EVk]{Eldritch Invocations}</td><td>2</td></tr><tr><td>3rd</td><td>+2</td><td>@Compendium[dnd5e.classfeatures.QwgfIpCN8VWfoUtX]{Pact Boon}</td><td>2</td></tr><tr><td>4th</td><td>+2</td><td>@Compendium[dnd5e.classfeatures.s0Cc2zcX0JzIgam5]{Ability Score Improvement}</td><td>2</td></tr><tr><td>5th</td><td>+3</td><td>3rd Level Spells, +1 Invocation</td><td>3</td></tr><tr><td>6th</td><td>+3</td><td>Otherworldly Patron feature</td><td>3</td></tr><tr><td>7th</td><td>+3</td><td>4th Level Spells, +1 Invocation</td><td>4</td></tr><tr><td>8th</td><td>+3</td><td>@Compendium[dnd5e.classfeatures.s0Cc2zcX0JzIgam5]{Ability Score Improvement}</td><td>4</td></tr><tr><td>9th</td><td>+4</td><td>5th Level Spells, +1 Invocation</td><td>5</td></tr><tr><td>10th</td><td>+4</td><td>Otherworldly Patron feature</td><td>5</td></tr><tr><td>11th</td><td>+4</td><td>@Compendium[dnd5e.classfeatures.zB77V8BcCJvWVxck]{Mystic Arcanum (6th-Level Spell)}</td><td>5</td></tr><tr><td>12th</td><td>+4</td><td>@Compendium[dnd5e.classfeatures.s0Cc2zcX0JzIgam5]{Ability Score Improvement}, +1 Invocation</td><td>6</td></tr><tr><td>13th</td><td>+5</td><td>@Compendium[dnd5e.classfeatures.zB77V8BcCJvWVxck]{Mystic Arcanum (7th-Level Spell)}</td><td>6</td></tr><tr><td>14th</td><td>+5</td><td>Otherworldly Patron feature</td><td>6</td></tr><tr><td>15th</td><td>+5</td><td>@Compendium[dnd5e.classfeatures.zB77V8BcCJvWVxck]{Mystic Arcanum (8th-Level Spell)}, +1 Invocation</td><td>7</td></tr><tr><td>16th</td><td>+5</td><td>@Compendium[dnd5e.classfeatures.s0Cc2zcX0JzIgam5]{Ability Score Improvement}</td><td>7</td></tr><tr><td>17th</td><td>+6</td><td>@Compendium[dnd5e.classfeatures.zB77V8BcCJvWVxck]{Mystic Arcanum (9th-Level Spell)}</td><td>7</td></tr><tr><td>18th</td><td>+6</td><td>+1 Invocation</td><td>8</td></tr><tr><td>19th</td><td>+6</td><td>@Compendium[dnd5e.classfeatures.s0Cc2zcX0JzIgam5]{Ability Score Improvement}</td><td>8</td></tr><tr><td>20th</td><td>+6</td><td>@Compendium[dnd5e.classfeatures.0C04rwyvoknvFYiy]{Eldritch Master}</td><td>8</td></tr></tbody></table><hr /><h3>Your Pact Boon</h3><p>Each Pact Boon option produces a special creature or an object that reflects your patron's nature.</p><p><em><strong>Pact of the Chain. </strong></em>Your familiar is more cunning than a typical familiar. Its default form can be a reflection of your patron, with imps and quasits tied to the Fiend.</p><p><em><strong>Pact of the Blade. </strong></em>If you serve the Fiend, your weapon could be an axe made of black metal and adorned with decorative flames.</p><p><em><strong>Pact of the Tome. </strong></em>Your Book of Shadows could be a weighty tome bound in demon hide studded with iron, holding spells of conjuration and a wealth of forbidden lore about the sinister regions of the cosmos, a gift of the Fiend.</p><hr /><h1>Otherworldly Patrons</h1><p>The beings that serve as patrons for warlocks are mighty inhabitants of other planes of existence—not gods, but almost godlike in their power. Various patrons give their warlocks access to different powers and invocations, and expect significant favors in return.</p><p>Some patrons collect warlocks, doling out mystic knowledge relatively freely or boasting of their ability to bind mortals to their will. Other patrons bestow their power only grudgingly, and might make a pact with only one warlock. Warlocks who serve the same patron might view each other as allies, siblings, or rivals.</p><p>@Compendium[dnd5e.subclasses.WPFVBg589uI8iOMH]{The Fiend}</p>",
+      "value": "<p>As a warlock, you gain the following class features.</p><h3>Hit Points</h3><p><strong>Hit Dice:</strong> 1d8 per warlock level<br /><strong>Hit Points at 1st Level:</strong> 8 + your Constitution modifier<br /><strong>Hit Points at Higher Levels:</strong> 1d8 (or 5) + your Constitution modifier per warlock level after 1st</p><h3>Proficiencies</h3><p><strong>Armor:</strong> Light armor<br /><strong>Weapons:</strong> Simple weapons<br /><strong>Tools:</strong> None<br /><strong>Saving Throws:</strong> Wisdom, Charisma<br /><strong>Skills:</strong> Choose two skills from Arcana, Deception, History, Intimidation, Investigation, Nature, and Religion</p><h3>Equipment</h3><p>You start with the following equipment, in addition to the equipment granted by your background:</p><ul><li>(a) a light crossbow and 20 bolts or (b) any simple weapon</li><li>(a) a component pouch or (b) an arcane focus</li><li>(a) a scholar's pack or (b) a dungeoneer's pack</li><li>Leather armor, any simple weapon, and two daggers</li></ul><h1>Warlock Advancement</h1><table border=\"0\"><thead><tr><td>Level</td><td>Proficiency Bonus</td><td>Features</td><td>Invocations Known</td></tr></thead><tbody><tr><td>1st</td><td>+2</td><td>@Compendium[dnd5e-complete-compendia.classesFeatures.jTXHaK0vvT5DV3uO]{Otherworldly Patron}, @Compendium[dnd5e-complete-compendia.classesFeatures.x6IJZwr6f0SGral7]{Pact Magic}</td><td>̶</td></tr><tr><td>2nd</td><td>+2</td><td>@Compendium[dnd5e-complete-compendia.classesFeatures.8MlxM2nEfE3Q0EVk]{Eldritch Invocations}</td><td>2</td></tr><tr><td>3rd</td><td>+2</td><td>@Compendium[dnd5e-complete-compendia.classesFeatures.QwgfIpCN8VWfoUtX]{Pact Boon}</td><td>2</td></tr><tr><td>4th</td><td>+2</td><td>@Compendium[dnd5e-complete-compendia.classesFeatures.s0Cc2zcX0JzIgam5]{Ability Score Improvement}</td><td>2</td></tr><tr><td>5th</td><td>+3</td><td>3rd Level Spells, +1 Invocation</td><td>3</td></tr><tr><td>6th</td><td>+3</td><td>Otherworldly Patron feature</td><td>3</td></tr><tr><td>7th</td><td>+3</td><td>4th Level Spells, +1 Invocation</td><td>4</td></tr><tr><td>8th</td><td>+3</td><td>@Compendium[dnd5e-complete-compendia.classesFeatures.s0Cc2zcX0JzIgam5]{Ability Score Improvement}</td><td>4</td></tr><tr><td>9th</td><td>+4</td><td>5th Level Spells, +1 Invocation</td><td>5</td></tr><tr><td>10th</td><td>+4</td><td>Otherworldly Patron feature</td><td>5</td></tr><tr><td>11th</td><td>+4</td><td>@Compendium[dnd5e-complete-compendia.classesFeatures.zB77V8BcCJvWVxck]{Mystic Arcanum (6th-Level Spell)}</td><td>5</td></tr><tr><td>12th</td><td>+4</td><td>@Compendium[dnd5e-complete-compendia.classesFeatures.s0Cc2zcX0JzIgam5]{Ability Score Improvement}, +1 Invocation</td><td>6</td></tr><tr><td>13th</td><td>+5</td><td>@Compendium[dnd5e-complete-compendia.classesFeatures.zB77V8BcCJvWVxck]{Mystic Arcanum (7th-Level Spell)}</td><td>6</td></tr><tr><td>14th</td><td>+5</td><td>Otherworldly Patron feature</td><td>6</td></tr><tr><td>15th</td><td>+5</td><td>@Compendium[dnd5e-complete-compendia.classesFeatures.zB77V8BcCJvWVxck]{Mystic Arcanum (8th-Level Spell)}, +1 Invocation</td><td>7</td></tr><tr><td>16th</td><td>+5</td><td>@Compendium[dnd5e-complete-compendia.classesFeatures.s0Cc2zcX0JzIgam5]{Ability Score Improvement}</td><td>7</td></tr><tr><td>17th</td><td>+6</td><td>@Compendium[dnd5e-complete-compendia.classesFeatures.zB77V8BcCJvWVxck]{Mystic Arcanum (9th-Level Spell)}</td><td>7</td></tr><tr><td>18th</td><td>+6</td><td>+1 Invocation</td><td>8</td></tr><tr><td>19th</td><td>+6</td><td>@Compendium[dnd5e-complete-compendia.classesFeatures.s0Cc2zcX0JzIgam5]{Ability Score Improvement}</td><td>8</td></tr><tr><td>20th</td><td>+6</td><td>@Compendium[dnd5e-complete-compendia.classesFeatures.0C04rwyvoknvFYiy]{Eldritch Master}</td><td>8</td></tr></tbody></table><hr /><h3>Your Pact Boon</h3><p>Each Pact Boon option produces a special creature or an object that reflects your patron's nature.</p><p><em><strong>Pact of the Chain. </strong></em>Your familiar is more cunning than a typical familiar. Its default form can be a reflection of your patron, with imps and quasits tied to the Fiend.</p><p><em><strong>Pact of the Blade. </strong></em>If you serve the Fiend, your weapon could be an axe made of black metal and adorned with decorative flames.</p><p><em><strong>Pact of the Tome. </strong></em>Your Book of Shadows could be a weighty tome bound in demon hide studded with iron, holding spells of conjuration and a wealth of forbidden lore about the sinister regions of the cosmos, a gift of the Fiend.</p><hr /><h1>Otherworldly Patrons</h1><p>The beings that serve as patrons for warlocks are mighty inhabitants of other planes of existence—not gods, but almost godlike in their power. Various patrons give their warlocks access to different powers and invocations, and expect significant favors in return.</p><p>Some patrons collect warlocks, doling out mystic knowledge relatively freely or boasting of their ability to bind mortals to their will. Other patrons bestow their power only grudgingly, and might make a pact with only one warlock. Warlocks who serve the same patron might view each other as allies, siblings, or rivals.</p><p>@Compendium[dnd5e-complete-compendia.subclasses.WPFVBg589uI8iOMH]{The Fiend}</p>",
       "chat": "",
       "unidentified": ""
     },
@@ -26,8 +26,8 @@
         "type": "ItemGrant",
         "configuration": {
           "items": [
-            "Compendium.dnd5e.classfeatures.jTXHaK0vvT5DV3uO",
-            "Compendium.dnd5e.classfeatures.x6IJZwr6f0SGral7"
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.jTXHaK0vvT5DV3uO",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.x6IJZwr6f0SGral7"
           ],
           "optional": false,
           "spell": {
@@ -48,7 +48,7 @@
         "type": "ItemGrant",
         "configuration": {
           "items": [
-            "Compendium.dnd5e.classfeatures.8MlxM2nEfE3Q0EVk"
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.8MlxM2nEfE3Q0EVk"
           ],
           "optional": false,
           "spell": {
@@ -69,7 +69,7 @@
         "type": "ItemGrant",
         "configuration": {
           "items": [
-            "Compendium.dnd5e.classfeatures.QwgfIpCN8VWfoUtX"
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.QwgfIpCN8VWfoUtX"
           ],
           "optional": false,
           "spell": {
@@ -90,7 +90,7 @@
         "type": "ItemGrant",
         "configuration": {
           "items": [
-            "Compendium.dnd5e.classfeatures.zB77V8BcCJvWVxck"
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.zB77V8BcCJvWVxck"
           ],
           "optional": false,
           "spell": {
@@ -111,7 +111,7 @@
         "type": "ItemGrant",
         "configuration": {
           "items": [
-            "Compendium.dnd5e.classfeatures.0C04rwyvoknvFYiy"
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.0C04rwyvoknvFYiy"
           ],
           "optional": false,
           "spell": {
@@ -144,38 +144,38 @@
           "allowDrops": true,
           "type": "feat",
           "pool": [
-            "Compendium.dnd5e.classfeatures.2fyuw7MiCnocDeAU",
-            "Compendium.dnd5e.classfeatures.alUqO6c6OEKFQJdb",
-            "Compendium.dnd5e.classfeatures.QEuH5TeBN4PPYT2g",
-            "Compendium.dnd5e.classfeatures.61kXR1sniXHjvN17",
-            "Compendium.dnd5e.classfeatures.eNvpIaSnJUdF8fHl",
-            "Compendium.dnd5e.classfeatures.KygHql3cTj4IRrvZ",
-            "Compendium.dnd5e.classfeatures.CFIYXDmbmSP8BXjN",
-            "Compendium.dnd5e.classfeatures.Phy02H5x0TKHd7T3",
-            "Compendium.dnd5e.classfeatures.3sN91lT1R3oxcDKd",
-            "Compendium.dnd5e.classfeatures.QBk1RsuTIEF4GEBC",
-            "Compendium.dnd5e.classfeatures.bbUEsCPTLzbbwK6o",
-            "Compendium.dnd5e.classfeatures.r01WtcxTg4yTHm9m",
-            "Compendium.dnd5e.classfeatures.lEZKbWaVrSljRa9n",
-            "Compendium.dnd5e.classfeatures.id0gmGvzNZBEdzbx",
-            "Compendium.dnd5e.classfeatures.65ReXU4ZWqcSs3Cm",
-            "Compendium.dnd5e.classfeatures.zUIAzBnyt0NDvVXb",
-            "Compendium.dnd5e.classfeatures.MhJfdBl1B7PdU4oZ",
-            "Compendium.dnd5e.classfeatures.lxfdjLer3uKjyZqU",
-            "Compendium.dnd5e.classfeatures.QnRKYXb2bXpnNd2k",
-            "Compendium.dnd5e.classfeatures.DjXi0IkCTbJx1gsp",
-            "Compendium.dnd5e.classfeatures.k5DU0mMuYVHejiqz",
-            "Compendium.dnd5e.classfeatures.KfnUyjUWAk0bAAus",
-            "Compendium.dnd5e.classfeatures.8zciiglzEOZo7DDN",
-            "Compendium.dnd5e.classfeatures.rdBPd6CwqXT64iJM",
-            "Compendium.dnd5e.classfeatures.Xa2MLUJGCReJ28B7",
-            "Compendium.dnd5e.classfeatures.dTSV0xZMpY5CxkRk",
-            "Compendium.dnd5e.classfeatures.rhbwDZ9XNTmdkX2u",
-            "Compendium.dnd5e.classfeatures.pJADgAxxefgcATWr",
-            "Compendium.dnd5e.classfeatures.zYIdNAjqRyhS6qWs",
-            "Compendium.dnd5e.classfeatures.k5M8gsl7MMcdjOjs",
-            "Compendium.dnd5e.classfeatures.gFjxo01hAN4c9hDG",
-            "Compendium.dnd5e.classfeatures.snsjxGfmzWfZR5Nh"
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.2fyuw7MiCnocDeAU",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.alUqO6c6OEKFQJdb",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.QEuH5TeBN4PPYT2g",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.61kXR1sniXHjvN17",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.eNvpIaSnJUdF8fHl",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.KygHql3cTj4IRrvZ",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.CFIYXDmbmSP8BXjN",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.Phy02H5x0TKHd7T3",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.3sN91lT1R3oxcDKd",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.QBk1RsuTIEF4GEBC",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.bbUEsCPTLzbbwK6o",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.r01WtcxTg4yTHm9m",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.lEZKbWaVrSljRa9n",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.id0gmGvzNZBEdzbx",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.65ReXU4ZWqcSs3Cm",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.zUIAzBnyt0NDvVXb",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.MhJfdBl1B7PdU4oZ",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.lxfdjLer3uKjyZqU",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.QnRKYXb2bXpnNd2k",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.DjXi0IkCTbJx1gsp",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.k5DU0mMuYVHejiqz",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.KfnUyjUWAk0bAAus",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.8zciiglzEOZo7DDN",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.rdBPd6CwqXT64iJM",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.Xa2MLUJGCReJ28B7",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.dTSV0xZMpY5CxkRk",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.rhbwDZ9XNTmdkX2u",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.pJADgAxxefgcATWr",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.zYIdNAjqRyhS6qWs",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.k5M8gsl7MMcdjOjs",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.gFjxo01hAN4c9hDG",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.snsjxGfmzWfZR5Nh"
           ],
           "spell": {
             "ability": "",
@@ -205,9 +205,9 @@
           "allowDrops": true,
           "type": "feat",
           "pool": [
-            "Compendium.dnd5e.classfeatures.9dSSa68mIPoX2ezA",
-            "Compendium.dnd5e.classfeatures.Ic1CSjvbWKudVUv9",
-            "Compendium.dnd5e.classfeatures.MYM908WLZ1lVvA1u"
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.9dSSa68mIPoX2ezA",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.Ic1CSjvbWKudVUv9",
+            "Compendium.dnd5e-complete-compendia-complete-compendia.classFeatures.MYM908WLZ1lVvA1u"
           ],
           "spell": {
             "ability": "",

@@ -525,7 +525,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.monsterfeatures.fdmzHw875EzpXM2a"
+          "sourceId": "Compendium.dnd5e-complete-compendia-complete-compendia.monsterFeatures.fdmzHw875EzpXM2a"
         }
       },
       "_stats": {
@@ -651,7 +651,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.items.0E565kQUBmndJ1a2"
+          "sourceId": "Compendium.dnd5e-complete-compendia.items.0E565kQUBmndJ1a2"
         }
       },
       "_stats": {
@@ -759,7 +759,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.EOmsUcFQJTfG2oio"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.EOmsUcFQJTfG2oio"
         }
       },
       "img": "icons/magic/fire/projectile-fireball-smoke-orange.webp",
@@ -865,7 +865,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.Bnn9Nzajixvow9xi"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.Bnn9Nzajixvow9xi"
         }
       },
       "img": "icons/magic/light/explosion-star-small-blue-yellow.webp",
@@ -971,7 +971,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.Utk1OQRwYkMkFRD3"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.Utk1OQRwYkMkFRD3"
         }
       },
       "img": "icons/magic/water/water-hand.webp",
@@ -1077,7 +1077,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.udsLtG0BugXHR2JQ"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.udsLtG0BugXHR2JQ"
         }
       },
       "img": "icons/magic/fire/explosion-fireball-small-purple-orange.webp",
@@ -1183,7 +1183,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.ghXTfe7sgCbgf1Q8"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.ghXTfe7sgCbgf1Q8"
         }
       },
       "img": "icons/magic/light/explosion-star-blue.webp",
@@ -1307,7 +1307,7 @@
           },
           "icon": "icons/magic/defensive/shield-barrier-glowing-triangle-blue.webp",
           "label": "Mage Armor",
-          "origin": "Compendium.dnd5e.spells.CKZTpZlxj7hjjo2H",
+          "origin": "Compendium.dnd5e-complete-compendia.spells.CKZTpZlxj7hjjo2H",
           "transfer": true,
           "flags": {},
           "tint": null,
@@ -1321,7 +1321,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.CKZTpZlxj7hjjo2H"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.CKZTpZlxj7hjjo2H"
         }
       },
       "_stats": {
@@ -1429,7 +1429,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.41JIhpDyM9Anm7cs"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.41JIhpDyM9Anm7cs"
         }
       },
       "img": "icons/magic/fire/projectile-meteor-salvo-light-pink.webp",
@@ -1567,7 +1567,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.z1mx84ONwkXKUZd7"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.z1mx84ONwkXKUZd7"
         }
       },
       "_stats": {
@@ -1670,7 +1670,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.wqfAVANuQonNBgnL"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.wqfAVANuQonNBgnL"
         }
       },
       "img": "icons/magic/control/debuff-energy-snare-brown.webp",
@@ -1776,7 +1776,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.zMAWdyc8UVb37BK4"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.zMAWdyc8UVb37BK4"
         }
       },
       "img": "icons/magic/air/air-burst-spiral-pink.webp",
@@ -1882,7 +1882,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.Ek45cBpVXvJdv1Qy"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.Ek45cBpVXvJdv1Qy"
         }
       },
       "img": "icons/skills/melee/strike-blade-hooked-orange-blue.webp",
@@ -1993,7 +1993,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.ztgcdrWPshKRpFd0"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.ztgcdrWPshKRpFd0"
         }
       },
       "img": "icons/magic/fire/projectile-fireball-smoke-large-orange.webp",
@@ -2099,7 +2099,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.yfbK8gZqESlaoY5t"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.yfbK8gZqESlaoY5t"
         }
       },
       "img": "icons/magic/control/energy-stream-link-white.webp",
@@ -2205,7 +2205,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.tEpDmYZNGc9f5OhJ"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.tEpDmYZNGc9f5OhJ"
         }
       },
       "img": "icons/magic/air/fog-gas-smoke-swirling-gray.webp",
@@ -2320,7 +2320,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.WN2LWEljYU6QqnRH"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.WN2LWEljYU6QqnRH"
         }
       },
       "img": "icons/magic/water/projectiles-ice-faceted-shard-salvo-blue.webp",
@@ -2431,7 +2431,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.RpKjTlYASrfqUPVA"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.RpKjTlYASrfqUPVA"
         }
       },
       "img": "icons/magic/water/projectiles-ice-faceted-shard-salvo-blue.webp",
@@ -2470,7 +2470,7 @@
       },
       "icon": "icons/magic/defensive/shield-barrier-glowing-triangle-blue.webp",
       "label": "Mage Armor",
-      "origin": "Compendium.dnd5e.monsters.mQnsXanewsPiV7QE.Item.CKZTpZlxj7hjjo2H",
+      "origin": "Compendium.dnd5e-complete-compendia.monsters.mQnsXanewsPiV7QE.Item.CKZTpZlxj7hjjo2H",
       "transfer": false,
       "flags": {},
       "tint": null,
@@ -2499,7 +2499,7 @@
       },
       "icon": "icons/magic/defensive/shield-barrier-glowing-triangle-magenta.webp",
       "label": "Shield",
-      "origin": "Compendium.dnd5e.monsters.mQnsXanewsPiV7QE.Item.z1mx84ONwkXKUZd7",
+      "origin": "Compendium.dnd5e-complete-compendia.monsters.mQnsXanewsPiV7QE.Item.z1mx84ONwkXKUZd7",
       "tint": null,
       "transfer": false,
       "sort": 0

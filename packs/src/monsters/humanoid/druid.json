@@ -526,7 +526,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.monsterfeatures.fdmzHw875EzpXM2a"
+          "sourceId": "Compendium.dnd5e-complete-compendia-complete-compendia.monsterFeatures.fdmzHw875EzpXM2a"
         }
       },
       "_stats": {
@@ -652,7 +652,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.items.g2dWN7PQiMRYWzyk"
+          "sourceId": "Compendium.dnd5e-complete-compendia.items.g2dWN7PQiMRYWzyk"
         }
       },
       "_stats": {
@@ -755,7 +755,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.SbSvZKkJASyk8jKo"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.SbSvZKkJASyk8jKo"
         }
       },
       "img": "icons/magic/nature/vines-thorned-glow-teal.webp",
@@ -866,7 +866,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.eCPQuQkIabFKTl9u"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.eCPQuQkIabFKTl9u"
         }
       },
       "img": "icons/magic/fire/explosion-fireball-medium-orange.webp",
@@ -969,7 +969,7 @@
       "effects": [],
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.gMrWeG8fMDPRFiVe"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.gMrWeG8fMDPRFiVe"
         }
       },
       "_id": "gMrWeG8fMDPRFiVe",
@@ -1078,7 +1078,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.B0pnIcc52O6G8hi8"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.B0pnIcc52O6G8hi8"
         }
       },
       "img": "icons/magic/air/wind-stream-blue-gray.webp",
@@ -1184,7 +1184,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.aL1F8fvYLtNzUbKu"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.aL1F8fvYLtNzUbKu"
         }
       },
       "img": "icons/magic/nature/wolf-paw-glow-small-teal-blue.webp",
@@ -1295,7 +1295,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.WTbOQBsarsL1LuXJ"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.WTbOQBsarsL1LuXJ"
         }
       },
       "img": "icons/magic/lightning/bolt-forked-teal.webp",
@@ -1401,7 +1401,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.X8w9EzYLGc4vQ1H2"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.X8w9EzYLGc4vQ1H2"
         }
       },
       "img": "icons/magic/nature/wolf-paw-glow-small-teal-blue.webp",
@@ -1512,7 +1512,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.VzgFzcmocr1X1cp4"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.VzgFzcmocr1X1cp4"
         }
       },
       "img": "icons/magic/fire/dagger-rune-enchant-teal.webp",
@@ -1656,7 +1656,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.JPwIEfgUPVebr5AH"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.JPwIEfgUPVebr5AH"
         }
       },
       "_stats": {
@@ -1699,7 +1699,7 @@
       },
       "icon": "icons/magic/defensive/shield-barrier-flaming-diamond-orange.webp",
       "label": "Barkskin",
-      "origin": "Compendium.dnd5e.monsters.K15Yl8JmB5iPircc.Item.JPwIEfgUPVebr5AH",
+      "origin": "Compendium.dnd5e-complete-compendia.monsters.K15Yl8JmB5iPircc.Item.JPwIEfgUPVebr5AH",
       "tint": null,
       "transfer": false,
       "sort": 0

@@ -569,7 +569,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.monsterfeatures.WdpSeGqhZpptz37y"
+          "sourceId": "Compendium.dnd5e-complete-compendia-complete-compendia.monsterFeatures.WdpSeGqhZpptz37y"
         }
       },
       "_stats": {
@@ -661,7 +661,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.monsterfeatures.JcfHlAcfwSWnt7Ud"
+          "sourceId": "Compendium.dnd5e-complete-compendia-complete-compendia.monsterFeatures.JcfHlAcfwSWnt7Ud"
         }
       },
       "_stats": {
@@ -753,7 +753,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.monsterfeatures.fdmzHw875EzpXM2a"
+          "sourceId": "Compendium.dnd5e-complete-compendia-complete-compendia.monsterFeatures.fdmzHw875EzpXM2a"
         }
       },
       "_stats": {
@@ -856,7 +856,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.Utk1OQRwYkMkFRD3"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.Utk1OQRwYkMkFRD3"
         }
       },
       "img": "icons/magic/water/water-hand.webp",
@@ -962,7 +962,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.oIzA2MEHwxhtQneU"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.oIzA2MEHwxhtQneU"
         }
       },
       "img": "icons/magic/control/hypnosis-mesmerism-eye.webp",
@@ -1073,7 +1073,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.ctW81uiX56xZR2c5"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.ctW81uiX56xZR2c5"
         }
       },
       "img": "icons/magic/light/beam-rays-blue-small.webp",
@@ -1179,7 +1179,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.eS7XnnApoxRxYXPs"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.eS7XnnApoxRxYXPs"
         }
       },
       "img": "icons/magic/fire/explosion-fireball-medium-purple-pink.webp",
@@ -1285,7 +1285,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.ghXTfe7sgCbgf1Q8"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.ghXTfe7sgCbgf1Q8"
         }
       },
       "img": "icons/magic/light/explosion-star-blue.webp",
@@ -1399,7 +1399,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.KhwiSi9fwVfUPtku"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.KhwiSi9fwVfUPtku"
         }
       },
       "_stats": {
@@ -1502,7 +1502,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.ppWAAEul0QHtm4er"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.ppWAAEul0QHtm4er"
         }
       },
       "img": "icons/magic/light/explosion-star-teal-purple.webp",
@@ -1608,7 +1608,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.3Lo9boi7P2ro6QV4"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.3Lo9boi7P2ro6QV4"
         }
       },
       "img": "icons/magic/control/debuff-chains-ropes-purple.webp",
@@ -1719,7 +1719,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.IyikgTEOTv701jgQ"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.IyikgTEOTv701jgQ"
         }
       },
       "img": "icons/magic/lightning/bolt-forked-large-blue.webp",
@@ -1825,7 +1825,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.13uVuBQP6VaiSPvC"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.13uVuBQP6VaiSPvC"
         }
       },
       "img": "icons/magic/water/pseudopod-swirl-blue.webp",
@@ -1936,7 +1936,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.pybg5MNc3lkerH4Y"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.pybg5MNc3lkerH4Y"
         }
       },
       "img": "icons/magic/unholy/strike-beam-blood-large-red-green.webp",
@@ -2047,7 +2047,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.A4RsPuSvB9wFtz1j"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.A4RsPuSvB9wFtz1j"
         }
       },
       "img": "icons/magic/air/air-burst-spiral-large-pink.webp",
@@ -2153,7 +2153,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.91Sw6vOIaO7U8DvM"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.91Sw6vOIaO7U8DvM"
         }
       },
       "img": "icons/magic/air/air-burst-spiral-large-pink.webp",

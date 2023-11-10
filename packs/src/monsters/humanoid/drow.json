@@ -526,7 +526,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.monsterfeatures.LvSBjRKoCAKaAnQy"
+          "sourceId": "Compendium.dnd5e-complete-compendia-complete-compendia.monsterFeatures.LvSBjRKoCAKaAnQy"
         }
       },
       "_stats": {
@@ -618,7 +618,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.monsterfeatures.hkmTEk6klT6QL4K4"
+          "sourceId": "Compendium.dnd5e-complete-compendia-complete-compendia.monsterFeatures.hkmTEk6klT6QL4K4"
         }
       },
       "_stats": {
@@ -710,7 +710,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.monsterfeatures.F14aW2Ke3I5ZtSg4"
+          "sourceId": "Compendium.dnd5e-complete-compendia-complete-compendia.monsterFeatures.F14aW2Ke3I5ZtSg4"
         }
       },
       "_stats": {
@@ -836,7 +836,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.items.osLzOwQdPtrK3rQH"
+          "sourceId": "Compendium.dnd5e-complete-compendia.items.osLzOwQdPtrK3rQH"
         }
       },
       "_stats": {
@@ -962,7 +962,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.items.qaSro7kFhxD6INbZ"
+          "sourceId": "Compendium.dnd5e-complete-compendia.items.qaSro7kFhxD6INbZ"
         }
       },
       "_stats": {
@@ -1074,7 +1074,7 @@
       },
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.items.p2zChy24ZJdVqMSH"
+          "sourceId": "Compendium.dnd5e-complete-compendia.items.p2zChy24ZJdVqMSH"
         }
       },
       "_stats": {
@@ -1177,7 +1177,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.S7VbUetIfVT7B6Eq"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.S7VbUetIfVT7B6Eq"
         }
       },
       "img": "icons/magic/perception/eye-ringed-glow-angry-red.webp",
@@ -1283,7 +1283,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.nqBDWkVOfcGZt4YU"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.nqBDWkVOfcGZt4YU"
         }
       },
       "img": "icons/magic/fire/projectile-meteor-salvo-strong-teal.webp",
@@ -1389,7 +1389,7 @@
       "sort": 0,
       "flags": {
         "core": {
-          "sourceId": "Compendium.dnd5e.spells.CAxSzHWizrafT033"
+          "sourceId": "Compendium.dnd5e-complete-compendia.spells.CAxSzHWizrafT033"
         }
       },
       "img": "icons/magic/fire/projectile-meteor-salvo-strong-blue.webp",
