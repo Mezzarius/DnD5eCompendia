@@ -30,9 +30,9 @@ jobs:
         echo "RELEASE_DOWNLOAD_URL=https://github.com/${{ github.repository }}/releases/download/${TAG}/dnd5e-complete-compendia-${TAG}.zip" >> $GITHUB_OUTPUT
         echo "RELEASE_INSTALL_URL=https://github.com/${{ github.repository }}/releases/download/${TAG}/module.json" >> $GITHUB_OUTPUT
         PACKAGE_VERSION=$(jq .version ./module.json)
-        echo "PACKAGE_VERSION"=${PACKAGE_VERSION}" >> $GITHUB_OUTPUT
+        echo "PACKAGE_VERSION=${PACKAGE_VERSION}" >> $GITHUB_OUTPUT
         PACKAGE_DOWNLOAD=$(jq .download ./module.json)
-        echo "PACKAGE_DOWNLOAD"=${PACKAGE_DOWNLOAD}" >> $GITHUB_OUTPUT
+        echo "PACKAGE_DOWNLOAD=${PACKAGE_DOWNLOAD}" >> $GITHUB_OUTPUT
 
     # Run some tests to make sure our `module.json` is correct
     # Exit before setting up node if not
