@@ -2,7 +2,6 @@
     "id": "dnd5e-complete-compendia",
     "title": "DnD5e Complete Compendia",
     "description": "Compendium containing all DnD5e Content",
-    "version": "1.0.9",
     "compatibility": {
         "minimum": "10",
         "verified": "11"
